@@ -1,0 +1,6 @@
+name: DisplaySlot
+version: Alpha 1.1
+author: NeverMind DeveloperTeam
+main: dev.nevermind.baimao.Main
+author: TNTXbaimao3
+depend: [Practice]
